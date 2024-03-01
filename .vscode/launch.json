@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CodeForces/Ladder/900",
-      "program": "d:/CodeForces/Ladder/900/build/Debug/outDebug",
+      "cwd": "d:/CodeForces/Contest/929",
+      "program": "d:/CodeForces/Contest/929/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
